@@ -9,5 +9,6 @@
 
 2. Q&A
 torch does not recognize cuda, need to use cu128(least or nightly) version torch
+https://pytorch.org/get-started/locally/
 
 3. UV env
